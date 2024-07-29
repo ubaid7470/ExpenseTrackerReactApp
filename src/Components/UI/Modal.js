@@ -56,7 +56,7 @@ export default function CustomModal() {
               >
                 Ubaid Lodhi
               </a>
-              . This project was created while learning the core of React from
+              . This project was created while learning the core of React from{" "}
               <a
                 href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING"
                 target="_blank"
