@@ -47,7 +47,7 @@ export default function CustomModal() {
             <Typography id="transition-modal-title" variant="h6" component="h2">
               About the project
             </Typography>
-            <Typography id="transition-modal-description" sx={{ mt: 2 }}>
+            <Typography id="transition-modal-description" sx={{ mt: 2, mb: 2 }}>
               This project is made by{" "}
               <a
                 href="https://www.linkedin.com/in/ubaid-lodhi/"
