@@ -61,9 +61,6 @@ export default function CustomModal() {
                 href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING"
                 target="_blank"
                 rel="noopener noreferrer"
-                onClick={() => {
-                  window.open("https://yourprojectlink.com", "_blank");
-                }}
               >
                 Maximilian Schwarzmüller's
               </a>{" "}
