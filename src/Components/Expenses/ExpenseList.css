@@ -1,0 +1,14 @@
+.ExpenseList {
+  list-style: none;
+  padding: 0;
+}
+
+.ExpenseList__Empty {
+  color: antiquewhite;
+  text-align: center;
+  cursor: default;
+}
+
+.ExpenseList__Empty:hover {
+  color: #ddb3f8;
+}
